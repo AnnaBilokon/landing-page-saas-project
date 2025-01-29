@@ -1,3 +1,4 @@
 export const Hero = () => {
-  return null;
-};
+	return 'hero';
+  };
+  
